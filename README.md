@@ -1,2 +1,3 @@
-# Ferienakademie
-Project page for "Scientific Machine Learning with Focus on Fluid Mechanics"
+# Scientific Machine Learning with Focus on Fluid Mechanics"
+
+*Course content coming soon*
