@@ -51,13 +51,23 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+h5{ 
+    font-size: 40px;
+    color: #C9C9C9;
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+}
+
+h6{
+    margin: 0 0 35px;
+    font-family: Montserrat, "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: #42dca3;
 }
 
 p, table {
@@ -238,8 +248,6 @@ small.authors {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
-    color: #C9C9C9;
     text-shadow: 2px 2px 8px #000000;
 }
 
